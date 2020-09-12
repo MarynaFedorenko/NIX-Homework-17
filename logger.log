@@ -1,0 +1,14 @@
+12.09.2020 21:47:25.937 [main] INFO   o.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.20.Final
+12.09.2020 21:47:26.593 [main] INFO   o.h.a.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+12.09.2020 21:47:27.046 [main] INFO   c.z.h.HikariDataSource - HikariPool-1 - Starting...
+12.09.2020 21:47:27.218 [main] INFO   c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+12.09.2020 21:47:27.249 [main] INFO   o.h.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+12.09.2020 21:47:29.312 [main] INFO   o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+12.09.2020 21:47:29.734 [main] INFO   nix.Application - -------------Task 1-------------
+12.09.2020 21:47:29.734 [main] INFO   nix.Application - Next lesson: Teacher full name: Alan  Menken
+12.09.2020 21:47:29.734 [main] INFO   nix.Application - Next lesson: Date and time: 2020-09-01T06:30:16Z
+12.09.2020 21:47:29.734 [main] INFO   nix.Application - Next lesson: Topic name: Date API
+12.09.2020 21:47:32.562 [main] INFO   nix.Application - -------------Task 2-------------
+12.09.2020 21:47:32.562 [main] INFO   nix.Application - Most successful group course name: Programming ID 1
+12.09.2020 21:47:32.562 [main] INFO   nix.Application - Most successful group name: Coding-Second ID 2
+12.09.2020 21:47:32.562 [main] INFO   nix.Application - Most successful group average mark value: 5.0
